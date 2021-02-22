@@ -17,6 +17,14 @@
       "placeholder_path": "./photos/Mars/IMG_2629.placeholder.jpg"
     },
     {
+      "width": 2048,
+      "height": 2048,
+      "path": "./photos/Mars/IMG_3025.png",
+      "compressed_path": "./photos/Mars/IMG_3025.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/Mars/IMG_3025.placeholder.png"
+    },
+    {
       "width": 733,
       "height": 1136,
       "path": "./photos/Mars/WechatIMG21.jpg",
@@ -31,6 +39,14 @@
       "compressed_path": "./photos/Mars/WechatIMG14.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Mars/WechatIMG14.placeholder.jpg"
+    },
+    {
+      "width": 640,
+      "height": 295,
+      "path": "./photos/Mars/IMG_3016.png",
+      "compressed_path": "./photos/Mars/IMG_3016.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/Mars/IMG_3016.placeholder.png"
     }
   ]
 }

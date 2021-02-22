@@ -18,11 +18,11 @@
     },
     {
       "width": 2048,
-      "height": 2048,
-      "path": "./photos/Mars/IMG_3025.png",
-      "compressed_path": "./photos/Mars/IMG_3025.min.png",
+      "height": 397,
+      "path": "./photos/Mars/IMG_3025.jpg",
+      "compressed_path": "./photos/Mars/IMG_3025.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Mars/IMG_3025.placeholder.png"
+      "placeholder_path": "./photos/Mars/IMG_3025.placeholder.jpg"
     },
     {
       "width": 733,
@@ -43,10 +43,10 @@
     {
       "width": 640,
       "height": 295,
-      "path": "./photos/Mars/IMG_3016.png",
-      "compressed_path": "./photos/Mars/IMG_3016.min.png",
+      "path": "./photos/Mars/IMG_3016.jpg",
+      "compressed_path": "./photos/Mars/IMG_3016.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Mars/IMG_3016.placeholder.png"
+      "placeholder_path": "./photos/Mars/IMG_3016.placeholder.jpg"
     }
   ]
 }

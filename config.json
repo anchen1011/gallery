@@ -1,44 +1,36 @@
 {
-  "Mockups": [
+  "Mars": [
     {
-      "width": 1440,
-      "height": 2020,
-      "path": "./photos/Mockups/Desktop.png",
-      "compressed_path": "./photos/Mockups/Desktop.min.png",
+      "width": 1170,
+      "height": 1452,
+      "path": "./photos/Mars/IMG_3454.jpg",
+      "compressed_path": "./photos/Mars/IMG_3454.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Mockups/Desktop.placeholder.png"
+      "placeholder_path": "./photos/Mars/IMG_3454.placeholder.jpg"
     },
     {
-      "width": 1440,
-      "height": 1024,
-      "path": "./photos/Mockups/curriculum.png",
-      "compressed_path": "./photos/Mockups/curriculum.min.png",
+      "width": 4032,
+      "height": 2272,
+      "path": "./photos/Mars/IMG_2629.jpg",
+      "compressed_path": "./photos/Mars/IMG_2629.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Mockups/curriculum.placeholder.png"
+      "placeholder_path": "./photos/Mars/IMG_2629.placeholder.jpg"
     },
     {
-      "width": 1000,
-      "height": 1000,
-      "path": "./photos/Mockups/Frame.png",
-      "compressed_path": "./photos/Mockups/Frame.min.png",
+      "width": 733,
+      "height": 1136,
+      "path": "./photos/Mars/WechatIMG21.jpg",
+      "compressed_path": "./photos/Mars/WechatIMG21.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Mockups/Frame.placeholder.png"
+      "placeholder_path": "./photos/Mars/WechatIMG21.placeholder.jpg"
     },
     {
-      "width": 1440,
-      "height": 1024,
-      "path": "./photos/Mockups/glossary.png",
-      "compressed_path": "./photos/Mockups/glossary.min.png",
+      "width": 1600,
+      "height": 884,
+      "path": "./photos/Mars/WechatIMG14.jpg",
+      "compressed_path": "./photos/Mars/WechatIMG14.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Mockups/glossary.placeholder.png"
-    },
-    {
-      "width": 1440,
-      "height": 1024,
-      "path": "./photos/Mockups/photoframe.png",
-      "compressed_path": "./photos/Mockups/photoframe.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/Mockups/photoframe.placeholder.png"
+      "placeholder_path": "./photos/Mars/WechatIMG14.placeholder.jpg"
     }
   ]
 }
